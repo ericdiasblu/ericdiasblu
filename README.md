@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Eric! Systems analysis and development student.
 
-  - 🌱 I’m currently studying analysis and development at Escola SESI <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying analysis and development at Escola SESI 
 
   - 🔭 I am looking for my first job opportunity.
 </p>
