@@ -33,6 +33,8 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+<!--[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31k5nd6ntt5htyrbvfrvgtjavt3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   
 <!-- Portfolio -->
 ## Portfolio:
