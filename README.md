@@ -37,23 +37,6 @@
   <div style="flex-basis: 48%;">
     <h3>Learning</h3>
         <img src="https://skillicons.dev/icons?i=js,html,css,python,react,supabase" />
-
-<!--[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31k5nd6ntt5htyrbvfrvgtjavt3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-  
-<!-- Portfolio -->
-## Portfolio:
-<!-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)-->
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif" alt="Imagem">
-</p>
-
-
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
