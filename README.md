@@ -29,14 +29,21 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&theme=radical)
 
 ## 🔥 Skills
+
 <!-- Skills: Programming Languages --> 
   <div style="flex-basis: 48%;">
-    <img src="https://skillicons.dev/icons?i=java,flutter,dart,lua,mysql,figma" />
+    <img src="https://skillicons.dev/icons?i=java,flutter,dart,lua,mysql,figma,git" />
 
 <!-- Skills: Learning -->
   <div style="flex-basis: 48%;">
     <h3>Learning</h3>
-        <img src="https://skillicons.dev/icons?i=js,html,css,python,react,supabase" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,python,react,supabase,postman,firebase,docker" />
+
+<!-- Skills:  IDEs --> 
+  <h3>IDEs</h3>
+  <div style="flex-basis: 48%;">
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,androidstudio,vscode" />
+    
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
