@@ -7,7 +7,7 @@
   </a>
 </p>
 
-
+---
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Eric! Mobile developer and development student.
@@ -30,6 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-dias-9607b52a2/)
 &nbsp;&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://eric-dias.vercel.app/)
+
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000)
