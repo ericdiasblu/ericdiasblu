@@ -7,7 +7,8 @@
   </a>
 </p>
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=F70404&height=3&section=header"/>
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Eric! Mobile developer and development student.
@@ -33,7 +34,7 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&bg_color=121211&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000)
 
 ## 🔥 Skills
 
@@ -57,3 +58,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F70404&height=70&section=footer"/>
+
