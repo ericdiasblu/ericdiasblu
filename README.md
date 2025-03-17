@@ -10,7 +10,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Eric! Systems analysis and development student.
+  Hi 👋, I'm Eric! Mobile developer and development student.
 
   - 🌱 I’m currently studying analysis and development at Escola SESI 
 
