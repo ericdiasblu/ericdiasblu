@@ -1,6 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F70404&height=70&section=header"/>
+
 <!--título-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+World" alt="Typing SVG">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70404&center=true&width=435&lines=Hello+World" alt="Typing SVG">
+  </a>
 </p>
 
 
@@ -28,7 +32,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://eric-dias.vercel.app/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&theme=radical)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000)
 
 ## 🔥 Skills
 
