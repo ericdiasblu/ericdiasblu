@@ -28,13 +28,14 @@
 </details>
 
 <!-- Links -->
-<a href="https://www.linkedin.com/in/eric-dias-9607b52a2/" target="_blank">
+<a href="https://www.linkedin.com/in/eric-dias-9607b52a2/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://eric-dias.vercel.app/" target="_blank">
+<a href="https://eric-dias.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
+
 
 
 
