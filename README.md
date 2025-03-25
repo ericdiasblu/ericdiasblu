@@ -27,16 +27,8 @@
   - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
 
-<!-- Links -->
-<a href="https://www.linkedin.com/in/eric-dias-9607b52a2/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://eric-dias.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-dias-9607b52a2/){:target="_blank" rel="noopener"}  
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://eric-dias.vercel.app/){:target="_blank" rel="noopener"}  
 
 
 <!-- GithubStats -->
