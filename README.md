@@ -37,17 +37,23 @@
 <!-- Skills: Programming Languages --> 
   <div style="flex-basis: 48%;">
     <img src="https://skillicons.dev/icons?i=java,flutter,dart,lua,mysql,figma,git" />
+  </div>
 
 <!-- Skills: Learning -->
   <div style="flex-basis: 48%;">
     <h3>Learning</h3>
         <img src="https://skillicons.dev/icons?i=js,html,css,python,react,supabase,postman,firebase,docker" />
+  </div>
 
 <!-- Skills:  IDEs --> 
   <h3>IDEs</h3>
   <div style="flex-basis: 48%;">
     <img src="https://skillicons.dev/icons?i=eclipse,idea,androidstudio,vscode" />
-    
+  </div>
+
+
+
+
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&bg_color=121211&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000)
 &nbsp;&nbsp;&nbsp;&nbsp;
