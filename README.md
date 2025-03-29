@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=F70404&height=3&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=680707&height=3&section=header"/>
 
 <!-- Presentation -->
 <p>
@@ -32,10 +32,6 @@
 &nbsp;&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://eric-dias.vercel.app/)
 
-
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&bg_color=121211&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000)
-
 ## 🔥 Skills
 
 <!-- Skills: Programming Languages --> 
@@ -52,6 +48,12 @@
   <div style="flex-basis: 48%;">
     <img src="https://skillicons.dev/icons?i=eclipse,idea,androidstudio,vscode" />
     
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&bg_color=121211&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000)
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=pt-br&hide_title=false&layout=compact&card_width=495&langs_count=10&bg_color=121211&title_color=FF0000&text_color=FFFFFF&hide_border=false" width="515" height="220" alt="languages graph" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=680707&height=3&section=header"/>
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
