@@ -55,12 +55,19 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&bg_color=121211&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000)
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericdiasblu&locale=pt-br&hide_title=false&layout=compact&card_width=495&langs_count=10&bg_color=121211&title_color=FF0000&text_color=FFFFFF&hide_border=false" width="495" height="220" alt="languages graph" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ericdiasblu&show_icons=true&bg_color=121211&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericdiasblu&locale=pt-br&hide_title=false&layout=compact&card_width=495&langs_count=10&bg_color=121211&title_color=FF0000&text_color=FFFFFF&hide_border=false" width="495" height="220" />
+    </td>
+  </tr>
+</table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=680707&height=3&section=header"/>
-  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=680707&height=3&section=header"/>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
