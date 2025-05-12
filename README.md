@@ -139,7 +139,7 @@ Tenho 17 anos, sou natural de Santa Catarina e atualmente curso o Ensino Médio 
     title="Supabase"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" 
 />
 <img 
     align="left" 
