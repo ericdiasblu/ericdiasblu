@@ -2,7 +2,7 @@
 
 **`Mobile Developer`**
 
-I'm 17 years old, from Santa Catarina (Brazil), and currently studying at SESI High School, along with a technical course in Systems Development. I'm passionate about technology and always looking to learn more and grow as a developer.
+I'm 18 years old, from Santa Catarina (Brazil), and currently studying at SESI High School, along with a technical course in Systems Development. I'm passionate about technology and always looking to learn more and grow as a developer.
 
 <p align="left">
     <a href="https://github.com/ericdiasblu?tab=repositories&sort=stargazers">
