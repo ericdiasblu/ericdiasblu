@@ -25,7 +25,7 @@ I'm 18 years old, from Santa Catarina (Brazil), and currently studying at SESI H
             alt="LinkedIn"
         />
     </a>
-    <a href="https://eric-dias.vercel.app/">
+    <a href="https://eric-dias-portfolio.vercel.app">
         <img 
             src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white" 
             alt="Portfolio"
