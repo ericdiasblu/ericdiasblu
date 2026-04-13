@@ -13,35 +13,22 @@
 🔠 B1 Intermediate English Level
 
 <p align="left">
-    <a href="https://github.com/ericdiasblu?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total stars" 
-            title="Total GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ericdiasblu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
+    <a href="https://github.com/ericdiasblu?tab=repositories&sort=stargazers" style="text-decoration: none;">
+        <img src="https://custom-icon-badges.demolab.com/github/stars/ericdiasblu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/>
     </a>
-    <a href="https://github.com/ericdiasblu?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ericdiasblu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
+    <a href="https://github.com/ericdiasblu?tab=followers" style="text-decoration: none;">
+        <img src="https://custom-icon-badges.demolab.com/github/followers/ericdiasblu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/eric-dias-9607b52a2/">
-        <img 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-            alt="LinkedIn"
-        />
+    <a href="https://www.linkedin.com/in/eric-dias-9607b52a2/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://eric-dias-portfolio.vercel.app">
-        <img 
-            src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white" 
-            alt="Portfolio"
-        />
+    <a href="https://eric-dias-portfolio.vercel.app" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
 </p>
 
 ---
+
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
