@@ -8,7 +8,7 @@
 
 🥈 2nd place at WorldSkills
 
-📱 Advanced Flutter Development Course
+📱 Advanced Flutter Development Course (completed)
 
 🔠 B1 Intermediate English Level
 
